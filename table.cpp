@@ -1,5 +1,4 @@
 //table.cpp
-//CS 163 Assignment 5
 //Keith Cook 6/11/2014
 //Implementation file for an adjacency list for a graph.
 
