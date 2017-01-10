@@ -1,5 +1,4 @@
 //main.cpp
-//CS 163 Assignment 5
 //Keith Cook 6/11/2014
 //The purpose of this file is to utilize a graph ADT to
 
