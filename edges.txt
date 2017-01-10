@@ -1,0 +1,11 @@
+Vancouver;5 South;Portland
+Vancouver;205 South;Gresham
+Beaverton;26 East;Portland
+Gresham;26 West;Portland
+Tualatin;5 North;Tigard
+Tualatin;205 North;Oregon City
+Tigard;217;Beaverton;
+Tigard;5 North;Portland
+Hillsboro;26 East;Beaverton
+Oregon City;205 North;Gresham
+Wilsonville;5 North;Tualatin
